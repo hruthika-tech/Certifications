@@ -22,3 +22,21 @@ My certifications and learning achievements
 - 
    📄 Certificate:
 [View Certificate](./Linux_Foundation_LFS101_Mamidala_Hruthika.pdf)
+---
+
+# IBM / Credly Certifications
+
+I have completed multiple IBM and Coursera certifications in Data Science, Python, SQL, and Generative AI.
+
+## Certifications Include
+- IBM Data Science Professional Certificate
+- Python for Data Science and AI
+- Databases and SQL for Data Science
+- Data Science Methodology
+- Generative AI Essentials for Data Science
+- Data Science Orientation
+
+🔗 View all badges and certifications here:
+
+[My Credly Profile]
+(https://www.credly.com/users/hruthika-mamidala)
